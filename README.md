@@ -68,7 +68,7 @@ syntax (5.11.0 and up).
 ### C++11 compiler requirement
 You may experience compilation errors when you attempt to run `npm link`.  If so, 
 you'll need to make sure you have a C++11 compiler installed on your system.
-If you're running on Windows this is sometimes resolved by installing [Visual C++
+If you're running on Windows this is sometimes resolved by installing the [Visual C++
 Build Tools](http://landinghub.visualstudio.com/visual-cpp-build-tools).  For \*nix
 systems you'll need to find the specific package needed for your particular OS.
 
